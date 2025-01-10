@@ -1,3 +1,5 @@
+<div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white rounded-xl p-6 w-full max-w-2xl">
+
 <h4 class="text-center mb-2">New version UUID</h4>
     <div id="newUUIDContent" class="text-gray-800 break-all font-mono text-sm"></div>
     </div>
